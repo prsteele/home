@@ -1,0 +1,7 @@
+* Home configuration
+
+A flake-based [[https://github.com/nix-community/home-manager][home-manager]] configuration.
+
+** Configuration
+
+Run ~nix run .~.
