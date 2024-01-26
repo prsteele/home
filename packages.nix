@@ -5,5 +5,6 @@
     nil
     (python3.pkgs.toPythonApplication python3.pkgs.black)
     (python3.pkgs.toPythonApplication python3.pkgs.isort)
+    ispell
   ];
 }
