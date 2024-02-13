@@ -1,7 +1,3 @@
-* Home configuration
+* Archived
 
-A flake-based [[https://github.com/nix-community/home-manager][home-manager]] configuration.
-
-** Configuration
-
-Run ~nix run .~.
+See https://github.com/prsteele/nixos-config instead.
